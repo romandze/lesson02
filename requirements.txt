@@ -1,0 +1,6 @@
+argparse
+urllib.request
+collections
+pymorphy2
+beautifulsoup4
+datetime
